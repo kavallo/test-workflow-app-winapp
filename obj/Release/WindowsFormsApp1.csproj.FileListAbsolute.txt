@@ -1,0 +1,8 @@
+C:\borrar\test-workflow-github\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\borrar\test-workflow-github\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\borrar\test-workflow-github\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\borrar\test-workflow-github\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\borrar\test-workflow-github\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\borrar\test-workflow-github\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\borrar\test-workflow-github\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\borrar\test-workflow-github\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
